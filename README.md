@@ -7,5 +7,6 @@ The goal of this assignment was to determine the retirement amount of employees 
 3. 1,549 employees eligible for mentorship as seen in the mentorship table that was created
 
 <img width="824" alt="Mentorship Eligibility" src="https://user-images.githubusercontent.com/100374924/163011534-6d1cda1c-513a-4fb2-b484-c01396d4cb48.png">
+
 ## Summary
 Based of the data we can see that roughly 63% of the employees at Pewlett Hackard are getting ready for retirement or being redirected to their mentorship initiatives. This means that the company needs to execute an extensive hiring process in the upcoming years. Since the majority of the future retirees hold high Senior positions the mentorship program will be helpful to provide a capacitation buffer for the extensive expertise that will be leaving the company in the years to come. 
